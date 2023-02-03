@@ -19,3 +19,11 @@ w = random.randint(0,20000)
 ```
 
 This will give w a random value between 0 and 20,000
+
+## Development
+
+The code was developed using Python.
+
+## Testing 
+
+The test for this project is in `array.py`. The test will run automatically whenever you hit the "run the program".

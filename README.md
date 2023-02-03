@@ -1,6 +1,6 @@
 # Binary and Linear Search
 
-##Assignment
+## Assignment
 
 Write a program that 
 a.	Generates 5000 random numbers and puts them in an array.
@@ -12,5 +12,7 @@ Hint: To generate random numbers you need to include this module:
 import random
 To get a random number w :  
 
+```
 w = random.randint(0,20000) 
+```
 This will give w a random value between 0 and 20,000

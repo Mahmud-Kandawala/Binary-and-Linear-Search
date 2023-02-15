@@ -2,7 +2,7 @@
 
 ## Assignment
 
-Write a program that
+Write a program that:
 ```
 a.	Generates 5000 random numbers and puts them in an array.
 b.	Sorts the numbers using any sorting technique (Selection sort is fine, but you can try another one).  
